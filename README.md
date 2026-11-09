@@ -77,8 +77,11 @@ Omit `--dry-run` to **Opslaan als concept**. Never pass `--send` unless you inte
 
 ## Related
 
+Index: [starterslabo-skills](https://github.com/c1sc0c0/starterslabo-skills).
+
+- [starterslabo-costs](https://github.com/c1sc0c0/starterslabo-costs) — onkostennota
+- [starterslabo-expenses](https://github.com/c1sc0c0/starterslabo-expenses) — aankoopfactuur SL
 - [starterslabo-faq](https://github.com/c1sc0c0/starterslabo-faq) — crawl portal FAQ
-- [starterslabo-eval](https://github.com/c1sc0c0/starterslabo-eval) — fill monthly evaluatiefiche
 
 ## License
 
